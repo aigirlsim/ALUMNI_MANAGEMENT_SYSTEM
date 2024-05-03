@@ -1,2 +1,6 @@
 # ALUMNI_MANAGEMENT_SYSTEM
 SOFTWARE ENGINEERING PROJECT
+#project setup
+# ALUMNI_MANAGEMENT_SYSTEM
+-alumini_management_system
+ -
