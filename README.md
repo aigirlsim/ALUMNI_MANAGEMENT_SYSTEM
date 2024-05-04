@@ -3,7 +3,7 @@ SOFTWARE ENGINEERING PROJECT
 #Django project structure
 # ALUMNI_MANAGEMENT_SYSTEM
 
- #alumini_management_system
+ # alumini_management_system
 
  -alumni_views
  
@@ -16,7 +16,7 @@ SOFTWARE ENGINEERING PROJECT
  -views.py
 
  
- #app
+ # app
  
   -admin.py
   
