@@ -25,16 +25,17 @@ SOFTWARE ENGINEERING PROJECT
   -models.py
   
  # templates
- 
-  # Alumni
-  
-  # staff
-  
-  # includes
   - base.html
   - login.html
   - profile.html
   - view_alumni.html
+    
+   # Alumni
+  
+   # staff
+  
+   # includes
+
  # static
 
  
