@@ -34,7 +34,7 @@ SOFTWARE ENGINEERING PROJECT
     
   - view_alumni.html
     
-  - Alumni
+  #Alumni
   - home.html
     
   - post_job.html
@@ -43,11 +43,11 @@ SOFTWARE ENGINEERING PROJECT
     
   - view_events.html
   
-  # staff
+  #staff
   
-  # includes
+  #includes
 
- # static
+  #static
 
  
  
