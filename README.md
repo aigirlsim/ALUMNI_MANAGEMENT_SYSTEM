@@ -30,11 +30,15 @@ SOFTWARE ENGINEERING PROJECT
   - profile.html
   - view_alumni.html
     
-   # Alumni
+  # Alumni
+  - home.html
+  - post_job.html
+  - view_job.html
+  - view_events.html
   
-   # staff
+  # staff
   
-   # includes
+  # includes
 
  # static
 
