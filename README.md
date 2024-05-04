@@ -34,18 +34,18 @@ SOFTWARE ENGINEERING PROJECT
     
   - view_alumni.html
     
-  #Alumni
-  - home.html
+   #Alumni
+    - home.html
     
-  - post_job.html
+    - post_job.html
     
-  - view_job.html
+    - view_job.html
     
-  - view_events.html
+    - view_events.html
   
-  #staff
+   #staff
   
-  #includes
+   #includes
 
   #static
 
