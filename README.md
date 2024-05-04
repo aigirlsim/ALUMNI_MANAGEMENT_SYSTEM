@@ -1,7 +1,10 @@
 # ALUMNI_MANAGEMENT_SYSTEM
 SOFTWARE ENGINEERING PROJECT
+
 #Django project structure
+
 this structure and files uploaded are just to give idea how the file and folder placement is done in my project
+
 #NOTE: the project will not run if u download this repository as it is
 # ALUMNI_MANAGEMENT_SYSTEM
 - manage.py
