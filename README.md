@@ -2,7 +2,10 @@
 SOFTWARE ENGINEERING PROJECT
 #Django project structure
 # ALUMNI_MANAGEMENT_SYSTEM
-
+ # db.sqlite3
+ 
+ - manage.py
+   
  # alumini_management_system
 
  -alumni_views
@@ -66,6 +69,9 @@ SOFTWARE ENGINEERING PROJECT
 
   #static
 
- 
+   -style.css
+   
+   -bootstrap.min.css
+
  
 
