@@ -45,8 +45,24 @@ SOFTWARE ENGINEERING PROJECT
     - view_events.html
   
    #staff
+   
+    -add_event.html
+    
+    -add_student.html
+    
+    -edit_alumni.html
+    
+    -home.html
   
    #includes
+
+    -Footer.html
+    
+    -Header.html
+    
+    -messages.html
+    
+    -Sidebar.html
 
   #static
 
