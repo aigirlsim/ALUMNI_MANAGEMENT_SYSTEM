@@ -24,17 +24,19 @@ SOFTWARE ENGINEERING PROJECT
   
   -models.py
   
+ # templates
  
- -manage.py
+  # Alumni
+  
+  # staff
+  
+  # includes
+  - base.html
+  - login.html
+  - profile.html
+  - view_alumni.html
+ # static
+
  
- -db.sqlite3
  
- -alumni_management_system
- 
- -alumni
- 
- -templates
- 
- -media
- 
- -static
+
