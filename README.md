@@ -67,9 +67,9 @@ SOFTWARE ENGINEERING PROJECT
 
   #static
 
-   -style.css
+    -style.css
    
-   -bootstrap.min.css
+    -bootstrap.min.css
 
  
 
