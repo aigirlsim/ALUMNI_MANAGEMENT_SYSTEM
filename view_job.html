@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+
+<div class="content container-fluid">
+    <div class="page-header">
+       <div class="row align-items-center">
+          <div class="col">
+             <h3 class="page-title">Student(Alumni)</h3>
+             <ul class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                <li class="breadcrumb-item active">Jobs Posted By Alumni</li>
+             </ul>
+          </div>
+          
+       </div>
+    </div>
+{% include 'includes/messages.html' %}
+    <div class="row">
+       <div class="col-sm-12">
+          <div class="card card-table">
+             <div class="card-body">
+                <div class="table-responsive">
+                   <table class="table table-hover table-center mb-0 datatable">
+                      <thead>
+                         <tr>
+                            <th>ID</th>
+                            <th>Title</th>
+                            <th>Company Name</th>
+                            <th>Description</th>
+                            <th>Location</th>
+                            <th>Application Deadline</th>
+                            <th>Apply for Job</th>
+                         </tr>
+                      </thead>
+                      <tbody>
+                        {% for i in jobs %}
+                         <tr>
+                            <td>{{i.id}}</td>
+                            <td>{{i.Title}}</td>
+                               <!-- <h2 class="table-avatar">
+                                  <a href="student-details.html" class="avatar avatar-sm mr-2"><img class="avatar-img rounded-circle" src="/{{i.admin.profile_pic}}" alt="User Image"></a>
+                                  <a href="student-details.html">{{i.job.Title}}</a>
+                               </h2> -->
+                            
+                            <td>{{i.CompanyName}}</td>
+                            <td>{{i.description}}</td>
+                            <td>{{i.CompanyName}}</td>
+                            <td>{{i.AplicvationDeadline}} </td>
+                            <td>
+                                <a href="{{ i.Link }}">{{ i.Link }}</a>
+                            </h2>
+                            </td>
+                         </tr>
+                         {% endfor %}
+                      </tbody>
+                   </table>
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+ </div>
+{% endblock %}
