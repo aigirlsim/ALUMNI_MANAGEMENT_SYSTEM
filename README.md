@@ -3,7 +3,7 @@ SOFTWARE ENGINEERING PROJECT
 #Django project structure
 # ALUMNI_MANAGEMENT_SYSTEM
 - manage.py
- # db.sqlite3
+#db.sqlite3
  # alumini_management_system
 
  -alumni_views
